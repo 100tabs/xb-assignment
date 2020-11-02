@@ -1,0 +1,7 @@
+.bg-nav{
+    background-color: teal;
+}
+.navbar h1 a {
+    text-decoration: none;
+    color: white;
+}

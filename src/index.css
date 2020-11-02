@@ -1,0 +1,47 @@
+body {
+  background-color: #e0e0ee;
+}
+
+.w-fixed-25 {
+  min-width: 250px;
+}
+
+.p-1 {
+  font-size: 1em;
+  line-height: 2rem;
+}
+
+.p-2 {
+  font-size: 1.02em;
+  line-height: 2rem;
+}
+
+.p-3 {
+  font-size: 1.04em;
+  line-height: 1rem;
+}
+
+.p-4 {
+  font-size: 1.06em;
+  line-height: 1rem;
+}
+
+.p-5 {
+  font-size: 1.08em;
+  line-height: 1rem;
+}
+
+.p-6 {
+  font-size: 1.1em;
+  line-height: 1rem;
+}
+
+.p-7 {
+  font-size: 1.12em;
+  line-height: 1rem;
+}
+
+.p-8 {
+  font-size: 1.14em;
+  line-height: 1rem;
+}
